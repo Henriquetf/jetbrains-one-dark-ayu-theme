@@ -216,7 +216,7 @@
       "tagForeground": "foregroundColor",
 
       "Button": {
-        "installForeground": "textColor",
+        "installForeground": "accentColor",
         "installBorderColor": "accentColor",
         "installFillForeground": "textColor",
         "installFillBackground": "accentColor",
@@ -301,15 +301,15 @@
     "Table": {
       "background": "backgroundColor",
       "stripeColor": "selectionColor",
-      "selectionForeground": "#ffffff",
-      "foreground": "foregroundColor",
+      "selectionForeground": "#707a8c",
+      "foreground": "#707a8c",
       "dropLineColor": "foregroundColor",
       "focusCellForeground": "foregroundColor",
       "gridColor": "infoForegroundColor",
-      "lightSelectionInactiveForeground": "foregroundColor",
-      "lightSelectionForeground": "foregroundColor",
+      "lightSelectionInactiveForeground": "#707a8c",
+      "lightSelectionForeground": "#707a8c",
       "selectionBackground": "hoverColor",
-      "selectionInactiveForeground": "foregroundColor",
+      "selectionInactiveForeground": "#707a8c",
       "lightSelectionBackground": "#414855",
       "lightSelectionInactiveBackground": "selectionBackgroundColor"
     },
@@ -363,9 +363,12 @@
     },
 
     "Tree": {
-      "selectionBackground": "#4d78cc",
-      "modifiedItemForeground": "accentColor",
-      "selectionInactiveForeground": "darkBackgroundColor",
+      "foreground": "#707a8c",
+      "selectionForeground": "foregroundColor",
+      "selectionBackground": "borderColor",
+      "selectionInactiveBackground": "borderColor",
+      "modifiedItemForeground": "#77a8d9",
+      "selectionInactiveForeground": "#707a8c",
       "rowHeight": 20
     },
 

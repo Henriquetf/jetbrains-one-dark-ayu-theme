@@ -1,4 +1,4 @@
-# JetBrains One Dark Theme
+# JetBrains One Dark Ayu Theme
 
 [![JetBrains plugin version](https://img.shields.io/jetbrains/plugin/v/11938-one-dark-theme.svg)](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
 [![JetBrains plugin downloads](https://img.shields.io/jetbrains/plugin/d/11938-one-dark-theme.svg)](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
@@ -6,7 +6,7 @@
 
 > [One Dark](https://github.com/atom/one-dark-syntax) theme for JetBrains.
 
-![Code example](https://github.com/one-dark/jetbrains-one-dark-theme/raw/master/docs/screenshots/default.png)
+![Code example](https://github.com/Henriquetf/jetbrains-one-dark-ayu-theme/raw/master/docs/screenshots/default.png)
 
 ## Sponsors
 
