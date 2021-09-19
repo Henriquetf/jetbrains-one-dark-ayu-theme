@@ -1,5 +1,5 @@
 {
-  "name": "One Dark",
+  "name": "One Dark Ayu",
   "dark": true,
   "author": "Mark Skelton",
   "editorScheme": "/themes/one_dark.xml",
@@ -170,7 +170,7 @@
     },
 
     "Notification": {
-      "background": "hoverColor",
+      "background": "backgroundColor",
       "borderColor": "#53565f",
 
       "errorForeground": "foregroundColor",

@@ -1,4 +1,4 @@
-package com.markskelton
+package com.henfe
 
 import com.intellij.openapi.project.DumbAware
 import com.intellij.openapi.project.Project

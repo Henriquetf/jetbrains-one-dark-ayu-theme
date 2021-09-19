@@ -1,4 +1,4 @@
-package com.markskelton.settings
+package com.henfe.settings
 
 import com.intellij.openapi.components.PersistentStateComponent
 import com.intellij.openapi.components.ServiceManager
@@ -7,7 +7,7 @@ import com.intellij.openapi.components.Storage
 import com.intellij.util.xmlb.XmlSerializerUtil
 
 @State(
-    name = "OneDarkConfig",
+    name = "OneDarkAyuConfig",
     storages = [Storage("one_dark_config.xml")]
 )
 class ThemeSettings : PersistentStateComponent<ThemeSettings>, Cloneable {

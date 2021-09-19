@@ -1,4 +1,4 @@
-package com.markskelton.integrations
+package com.henfe.integrations
 
 import com.intellij.ide.IdeBundle
 import com.intellij.ide.plugins.PluginManagerCore
@@ -15,9 +15,9 @@ import com.intellij.openapi.util.io.FileUtilRt
 import com.intellij.openapi.util.registry.Registry
 import com.intellij.util.Consumer
 import com.intellij.util.text.DateFormatUtil
-import com.markskelton.settings.ThemeSettings
-import com.markskelton.tools.runSafely
-import com.markskelton.tools.runSafelyWithResult
+import com.henfe.settings.ThemeSettings
+import com.henfe.tools.runSafely
+import com.henfe.tools.runSafelyWithResult
 import io.sentry.Sentry
 import io.sentry.SentryEvent
 import io.sentry.SentryLevel

@@ -1,4 +1,4 @@
-package com.markskelton
+package com.henfe
 
 import com.intellij.ide.plugins.PluginManagerCore
 import com.intellij.openapi.application.ApplicationManager
@@ -6,8 +6,8 @@ import com.intellij.openapi.extensions.PluginId
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.startup.StartupManager
 import com.intellij.util.messages.MessageBusConnection
-import com.markskelton.notification.Notifications
-import com.markskelton.settings.ThemeSettings
+import com.henfe.notification.Notifications
+import com.henfe.settings.ThemeSettings
 import java.util.*
 
 enum class OneDarkThemes {
@@ -22,7 +22,7 @@ object OneDarkThemeManager {
     "42c9c7f0-18f3-11ec-9621-0242ac130002" to OneDarkThemes.VIVID,
     "42c9c8ae-18f3-11ec-9621-0242ac130002" to OneDarkThemes.VIVID_ITALIC
   )
-  private const val PLUGIN_ID = "com.markskelton.one-dark-theme"
+  private const val PLUGIN_ID = "com.henfe.one-dark-ayu-theme"
 
   fun registerStartup(project: Project) {
     if (!this::messageBus.isInitialized) {

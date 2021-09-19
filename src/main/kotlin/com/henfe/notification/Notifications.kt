@@ -1,4 +1,4 @@
-package com.markskelton.notification
+package com.henfe.notification
 
 import com.intellij.ide.plugins.PluginManagerCore.getPlugin
 import com.intellij.ide.plugins.PluginManagerCore.getPluginOrPlatformByClassName

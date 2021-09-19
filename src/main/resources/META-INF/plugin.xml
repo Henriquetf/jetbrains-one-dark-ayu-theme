@@ -12,10 +12,10 @@
   <idea-version since-build="201.5985.32"/>
 
   <extensions defaultExtensionNs="com.intellij">
-    <applicationService serviceImplementation="com.markskelton.settings.ThemeSettings"/>
+    <applicationService serviceImplementation="com.henfe.settings.ThemeSettings"/>
     <errorHandler id="9782e40c-e6d2-488f-8669-71f5cca6695e"
-                  implementation="com.markskelton.integrations.ErrorReporter"/>
-    <postStartupActivity implementation="com.markskelton.OneDarkTheme"/>
+                  implementation="com.henfe.integrations.ErrorReporter"/>
+    <postStartupActivity implementation="com.henfe.OneDarkTheme"/>
     <themeProvider id="42c9c502-18f3-11ec-9621-0242ac130002" path="/themes/one_dark_ayu.theme.json"/>
     <themeProvider id="42c9c70a-18f3-11ec-9621-0242ac130002" path="/themes/one_dark_ayu_italic.theme.json"/>
     <themeProvider id="42c9c7f0-18f3-11ec-9621-0242ac130002" path="/themes/one_dark_ayu_vivid.theme.json"/>

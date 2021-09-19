@@ -1,4 +1,4 @@
-package com.markskelton.tools
+package com.henfe.tools
 
 fun <T> runSafelyWithResult(runner: () -> T, onError: (Throwable) -> T): T =
   try {

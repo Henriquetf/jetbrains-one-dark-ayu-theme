@@ -1,8 +1,8 @@
-package com.markskelton.integrations
+package com.henfe.integrations
 
 import com.intellij.openapi.diagnostic.Logger
-import com.markskelton.readAllTheBytes
-import com.markskelton.toOptional
+import com.henfe.readAllTheBytes
+import com.henfe.toOptional
 import org.apache.http.client.config.RequestConfig
 import org.apache.http.client.methods.HttpGet
 import org.apache.http.impl.client.HttpClients
