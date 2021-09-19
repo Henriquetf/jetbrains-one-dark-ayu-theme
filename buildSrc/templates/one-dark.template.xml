@@ -5,50 +5,50 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="$green$"/>
     <option name="ANNOTATIONS_COLOR" value="a0a7b4"/>
-    <option name="CARET_COLOR" value="528bff"/>
-    <option name="CARET_ROW_COLOR" value="2c313c"/>
+    <option name="CARET_COLOR" value="ffcc66"/>
+    <option name="CARET_ROW_COLOR" value="191E2A"/>
     <option name="CONSOLE_BACKGROUND_KEY" value=""/>
     <option name="DELETED_LINES_COLOR" value="$coral$"/>
     <option name="DIAGRAM_ANNOTATION_EDGE" value="$chalky$"/>
     <option name="DIAGRAM_DEFAULT_EDGE" value="a0a7b4"/>
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="$malibu$"/>
     <option name="DIAGRAM_INNER_EDGE" value="$coral$"/>
-    <option name="DIAGRAM_NODE_BACKGROUND" value="323844"/>
+    <option name="DIAGRAM_NODE_BACKGROUND" value="2a3546"/>
     <option name="DIAGRAM_NODE_HEADER" value="414855"/>
     <option name="DIAGRAM_NOTE_BACKGROUND" value="414855"/>
     <option name="DIAGRAM_NOTE_BORDER" value="$dark$"/>
     <option name="DIAGRAM_REALIZATION_EDGE" value="$green$"/>
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b"/>
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="232834"/>
     <option name="DOCUMENTATION_COLOR" value="3d424b"/>
     <option name="ERROR_HINT" value="781732"/>
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f"/>
     <option name="FOLDED_TEXT_BORDER_COLOR" value=""/>
-    <option name="GUTTER_BACKGROUND" value="282c34"/>
+    <option name="GUTTER_BACKGROUND" value="232834"/>
     <option name="HTML_TAG_TREE_LEVEL0" value="$error$"/>
     <option name="HTML_TAG_TREE_LEVEL1" value="$chalky$"/>
     <option name="HTML_TAG_TREE_LEVEL2" value="$green$"/>
     <option name="HTML_TAG_TREE_LEVEL3" value="$fountainBlue$"/>
     <option name="HTML_TAG_TREE_LEVEL4" value="$malibu$"/>
     <option name="HTML_TAG_TREE_LEVEL5" value="$purple$"/>
-    <option name="INDENT_GUIDE" value="3b4048"/>
+    <option name="INDENT_GUIDE" value="3a404e"/>
     <option name="INFORMATION_HINT" value="3d424b"/>
     <option name="LINE_NUMBERS_COLOR" value="495162"/>
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984"/>
     <option name="LOOKUP_COLOR" value="3d424b"/>
-    <option name="METHOD_SEPARATORS_COLOR" value="3b4048"/>
+    <option name="METHOD_SEPARATORS_COLOR" value="3a404e"/>
     <option name="MODIFIED_LINES_COLOR" value="$whiskey$"/>
     <option name="QUESTION_HINT" value="2e4280"/>
     <option name="RECENT_LOCATIONS_SELECTION" value="3d424b"/>
-    <option name="RIGHT_MARGIN_COLOR" value="606368"/>
-    <option name="SELECTED_INDENT_GUIDE" value="606368"/>
+    <option name="RIGHT_MARGIN_COLOR" value="596271"/>
+    <option name="SELECTED_INDENT_GUIDE" value="596271"/>
     <option name="SELECTED_TEARLINE_COLOR" value="6b6e73"/>
-    <option name="SELECTION_BACKGROUND" value="404859"/>
+    <option name="SELECTION_BACKGROUND" value="2a3546"/>
     <option name="SEPARATOR_BELOW_COLOR" value=""/>
     <option name="TEARLINE_COLOR" value="4f575f"/>
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027"/>
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c"/>
     <option name="VCS_ANNOTATIONS_COLOR_5" value="46333c"/>
-    <option name="VISUAL_INDENT_GUIDE" value="3b4048"/>
+    <option name="VISUAL_INDENT_GUIDE" value="3a404e"/>
     <option name="WHITESPACES" value="4b575f"/>
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="$dark$"/>
   </colors>
@@ -264,7 +264,7 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="21252b"/>
+        <option name="ERROR_STRIPE_COLOR" value="232834"/>
         <option name="FOREGROUND" value="646a73"/>
       </value>
     </option>
@@ -2138,7 +2138,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="BACKGROUND" value="282c34"/>
+        <option name="BACKGROUND" value="232834"/>
         <option name="FOREGROUND" value="$lightWhite$"/>
       </value>
     </option>
@@ -2216,7 +2216,7 @@
     </option>
     <option name="VELOCITY_SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="282c34" />
+        <option name="BACKGROUND" value="232834" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
@@ -2261,7 +2261,7 @@
     </option>
     <option name="XML_PROLOGUE">
       <value>
-        <option name="BACKGROUND" value="282c34"/>
+        <option name="BACKGROUND" value="232834"/>
         <option name="FOREGROUND" value="$lightWhite$"/>
       </value>
     </option>

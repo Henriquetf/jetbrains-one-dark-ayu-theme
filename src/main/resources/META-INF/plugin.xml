@@ -1,8 +1,8 @@
 <idea-plugin>
-  <id>com.markskelton.one-dark-theme</id>
-  <name>One Dark theme</name>
-  <vendor email="mdskelton99@gmail.com"
-          url="https://github.com/one-dark/jetbrains-one-dark-theme">Mark Skelton
+  <id>com.henfe.one-dark-ayu-theme</id>
+  <name>One Dark Ayu theme</name>
+  <vendor email=""
+          url="">Hen Fe
   </vendor>
 
   <depends>com.intellij.modules.platform</depends>
@@ -16,9 +16,9 @@
     <errorHandler id="9782e40c-e6d2-488f-8669-71f5cca6695e"
                   implementation="com.markskelton.integrations.ErrorReporter"/>
     <postStartupActivity implementation="com.markskelton.OneDarkTheme"/>
-    <themeProvider id="f92a0fa7-1a98-47cd-b5cb-78ff67e6f4f3" path="/themes/one_dark.theme.json"/>
-    <themeProvider id="1a92aa6f-c2f1-4994-ae01-6a78e43eeb24" path="/themes/one_dark_italic.theme.json"/>
-    <themeProvider id="4b6007f7-b596-4ee2-96f9-968d3d3eb392" path="/themes/one_dark_vivid.theme.json"/>
-    <themeProvider id="4f556d32-83cb-4b8b-9932-c4eccc4ce3af" path="/themes/one_dark_vivid_italic.theme.json"/>
+    <themeProvider id="42c9c502-18f3-11ec-9621-0242ac130002" path="/themes/one_dark_ayu.theme.json"/>
+    <themeProvider id="42c9c70a-18f3-11ec-9621-0242ac130002" path="/themes/one_dark_ayu_italic.theme.json"/>
+    <themeProvider id="42c9c7f0-18f3-11ec-9621-0242ac130002" path="/themes/one_dark_ayu_vivid.theme.json"/>
+    <themeProvider id="42c9c8ae-18f3-11ec-9621-0242ac130002" path="/themes/one_dark_ayu_vivid_italic.theme.json"/>
   </extensions>
 </idea-plugin>

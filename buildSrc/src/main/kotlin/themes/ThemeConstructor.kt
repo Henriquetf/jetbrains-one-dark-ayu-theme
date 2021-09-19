@@ -43,15 +43,15 @@ data class OneDarkThemeDefinition(
 open class ThemeConstructor : DefaultTask() {
   companion object {
     private val gson = GsonBuilder().setPrettyPrinting().create()
-    private const val REGULAR = "One Dark"
-    private const val ITALIC = "One Dark Italic"
-    private const val VIVID = "One Dark Vivid"
-    private const val VIVID_ITALIC = "One Dark Vivid Italic"
+    private const val REGULAR = "One Dark Ayu"
+    private const val ITALIC = "One Dark Ayu Italic"
+    private const val VIVID = "One Dark Ayu Vivid"
+    private const val VIVID_ITALIC = "One Dark Ayu Vivid Italic"
     val THEMES = mapOf(
-      "f92a0fa7-1a98-47cd-b5cb-78ff67e6f4f3" to REGULAR,
-      "1a92aa6f-c2f1-4994-ae01-6a78e43eeb24" to ITALIC,
-      "4b6007f7-b596-4ee2-96f9-968d3d3eb392" to VIVID,
-      "4f556d32-83cb-4b8b-9932-c4eccc4ce3af" to VIVID_ITALIC
+      "42c9c502-18f3-11ec-9621-0242ac130002" to REGULAR,
+      "42c9c70a-18f3-11ec-9621-0242ac130002" to ITALIC,
+      "42c9c7f0-18f3-11ec-9621-0242ac130002" to VIVID,
+      "42c9c8ae-18f3-11ec-9621-0242ac130002" to VIVID_ITALIC
     )
   }
 

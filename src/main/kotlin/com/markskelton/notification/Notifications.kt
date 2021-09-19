@@ -30,10 +30,10 @@ object Notifications {
   )
 
   private val notificationGroup = NotificationGroup(
-    "One Dark Theme",
+    "One Dark Ayu Theme",
     NotificationDisplayType.BALLOON,
     false,
-    "One Dark Theme",
+    "One Dark Ayu Theme",
     NOTIFICATION_ICON
   )
 
@@ -41,7 +41,7 @@ object Notifications {
     val pluginName =
       getPlugin(
         getPluginOrPlatformByClassName(Notifications::class.java.canonicalName)
-      )?.name ?: "One Dark Theme"
+      )?.name ?: "One Dark Ayu Theme"
     notificationGroup.createNotification(
       UPDATE_MESSAGE,
       NotificationType.INFORMATION
