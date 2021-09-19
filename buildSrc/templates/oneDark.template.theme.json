@@ -4,7 +4,7 @@
   "author": "Mark Skelton",
   "editorScheme": "/themes/one_dark.xml",
   "colors": {
-    "accentColor": "#568AF2",
+    "accentColor": "#FFCC66",
     "backgroundColor": "#232834",
     "darkBackgroundColor": "#1F2430",
     "borderColor": "#191E2A",
@@ -16,11 +16,12 @@
     "acceleratorForegroundColor": "#E6E6E6",
     "errorForegroundColor": "#cd3359",
     "selectionForegroundColor": "#d7dae0",
-    "hoverColor": "#1F2430"
+    "hoverColor": "#1F2430",
+    "textColor": "#1f2430"
   },
   "ui": {
     "*": {
-      "background": "backgroundColor",
+      "background": "darkBackgroundColor",
       "foreground": "foregroundColor",
 
       "infoForeground": "infoForegroundColor",
@@ -53,7 +54,7 @@
       "pressedBorderColor": "borderColor"
     },
 
-    "BookmarkIcon.background": "#d9a343",
+    "BookmarkIcon.background": "accentColor",
 
     "Button": {
       "foreground": "#a0a7b4",
@@ -65,13 +66,13 @@
       "focusedBorderColor": "#646a73",
 
       "default": {
-        "foreground": "#ffffff",
+        "foreground": "#1f2430",
         "startBackground": "accentColor",
         "endBackground": "accentColor",
         "startBorderColor": "accentColor",
         "endBorderColor": "accentColor",
-        "focusedBorderColor": "#4269b9",
-        "focusColor": "#4269b9"
+        "focusedBorderColor": "#606979",
+        "focusColor": "#606979"
       }
     },
 
@@ -111,8 +112,8 @@
     },
 
     "DefaultTabs": {
-      "underlineColor": "accentColor",
-      "inactiveUnderlineColor": "#4269b9",
+      "underlineColor": "#606979",
+      "inactiveUnderlineColor": "darkBackgroundColor",
       "hoverBackground": "selectionBackgroundColor"
     },
 
@@ -215,11 +216,11 @@
       "tagForeground": "foregroundColor",
 
       "Button": {
-        "installForeground": "accentColor",
+        "installForeground": "textColor",
         "installBorderColor": "accentColor",
-        "installFillForeground": "#ffffff",
+        "installFillForeground": "textColor",
         "installFillBackground": "accentColor",
-        "updateForeground": "#ffffff",
+        "updateForeground": "textColor",
         "updateBackground": "accentColor",
         "updateBorderColor": "accentColor"
       },
@@ -253,7 +254,7 @@
       "trackColor": "#1D1D26",
       "progressColor": "accentColor",
       "indeterminateStartColor": "accentColor",
-      "indeterminateEndColor": "#313469",
+      "indeterminateEndColor": "selectionBackgroundColor",
       "failedColor": "#bd3c5f",
       "failedEndColor": "#472c33",
       "passedColor": "#239E62",
@@ -324,7 +325,7 @@
     },
 
     "ToggleButton": {
-      "onForeground": "#ffffff",
+      "onForeground": "textColor",
       "onBackground": "accentColor",
       "offForeground": "#9f9fa6",
       "offBackground": "hoverColor",
@@ -344,8 +345,8 @@
       },
 
       "Header": {
-        "background": "darkBackgroundColor",
-        "inactiveBackground": "backgroundColor"
+        "background": "#505867",
+        "inactiveBackground": "darkBackgroundColor"
       },
 
       "HeaderTab": {
@@ -364,7 +365,7 @@
     "Tree": {
       "selectionBackground": "#4d78cc",
       "modifiedItemForeground": "accentColor",
-      "selectionInactiveForeground": "foregroundColor",
+      "selectionInactiveForeground": "darkBackgroundColor",
       "rowHeight": 20
     },
 
