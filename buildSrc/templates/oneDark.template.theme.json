@@ -345,7 +345,7 @@
       },
 
       "Header": {
-        "background": "#505867",
+        "background": "darkBackgroundColor",
         "inactiveBackground": "darkBackgroundColor"
       },
 
