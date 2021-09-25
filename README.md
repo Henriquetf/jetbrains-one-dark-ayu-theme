@@ -12,7 +12,9 @@
 Screenshot settings:
 
 - Font: JetBrains Mono
-- Font size: 13
+  - Font size: 13
+  - Main Weight: Medium
+  - Bold weight: ExtraBold
 - Theme: One Dark Ayu Italic
 - Icons: Atom Material Icons
 

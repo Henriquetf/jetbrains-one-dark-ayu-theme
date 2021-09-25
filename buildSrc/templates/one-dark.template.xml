@@ -283,7 +283,7 @@
         <option name="FOREGROUND" value="$chalky$" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="$coral$" />
@@ -1247,6 +1247,18 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
+    <option name="JS.DOC_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="$coral$" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.DOC_TYPE">
+      <value>
+        <option name="FOREGROUND" value="$chalky$" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="JS.GET_SET">
       <value>
         <option name="FOREGROUND" value="$fountainBlue$" />
@@ -1297,6 +1309,12 @@
     <option name="JS.NULL_UNDEFINED">
       <value>
         <option name="FOREGROUND" value="$whiskey$" />
+      </value>
+    </option>
+    <option name="JS.PRIMITIVE.TYPE">
+      <value>
+        <option name="FOREGROUND" value="$chalky$" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.PROTOTYPE">
@@ -3620,6 +3638,18 @@
         <option name="FOREGROUND" value="$fountainBlue$" />
       </value>
     </option>
+    <option name="TS.DOC_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="$coral$" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="TS.DOC_TYPE">
+      <value>
+        <option name="FOREGROUND" value="$chalky$" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="TS.INLINE">
       <value>
         <option name="FOREGROUND" value="$fountainBlue$" />
@@ -3628,6 +3658,12 @@
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="$green$" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.PRIMITIVE.TYPES">
+      <value>
+        <option name="FOREGROUND" value="$chalky$" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
