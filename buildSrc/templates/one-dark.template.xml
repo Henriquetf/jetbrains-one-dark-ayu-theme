@@ -108,8 +108,8 @@
     <option name="ScrollBar.hoverTrackColor" value="232834" />
     <option name="ScrollBar.thumbColor" value="424957c0" />
     <option name="ScrollBar.trackColor" value="232834" />
-    <option name="TAB_UNDERLINE" value="FFCC66" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="FFCC66c0" />
+    <option name="TAB_UNDERLINE" value="$whiskey$" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="D19A66c0" />
     <option name="TEARLINE_COLOR" value="3a404e" />
     <option name="TOOLTIP" value="3a3f4b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="59626f" />
